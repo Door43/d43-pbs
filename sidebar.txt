@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pbs:home|Door43 (pbs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pbs|d43-pbs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pbs/archive/master.zip|d43-pbs.zip]]
+
+**Recent Changes**
+{{changes>ns = pbs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pbs|Ethnologue data]]
+
